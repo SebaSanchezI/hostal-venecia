@@ -16,37 +16,37 @@
     "services": {
       "hotel": {
         "title": "Hotel",
-        "description": "El hotel tiene capacidad para 200 personas."
+        "description": "El hotel tiene capacidad para 57 personas."
       },
       "restaurant": {
         "title": "Restaurante",
-        "description": "Capacidad máxima de 200 personas. Sala de eventos y reuniones."
+        "description": "Capacidad máxima de 57 personas. Sala de eventos y reuniones."
       },
       "meetings": {
         "title": "Reuniones",
-        "description": "El complejo consta de diferentes salas de reuniones totalmente equipadas."
+        "description": "El complejo consta de una sala de reuniones."
       },
       "wifi": {
         "title": "WiFi",
-        "description": "WiFi en todas las zonas comunes del complejo."
-      },
-      "parking": {
-        "title": "Parking Gratis",
-        "description": "El complejo consta de parking para un máximo 20 plazas."
+        "description": "WiFi en todas las zonas del complejo."
       },
       "shows": {
-        "title": "Espectáculos",
-        "description": "Espectáculos al aire libre y eventos privados a medida."
+        "title": "Fútbol",
+        "description": "Partidos de fútbol televisados en vivo."
+      },
+      "pets": {
+        "title": "Mascotas",
+        "description": "Pequeñas mascotas estan permitidas. (Hasta 10kg)"
       }
     },
     "faq": {
       "panelId1": {
         "title": "¿Cómo reservar?",
-        "description": "Para poder reservar una habitacion tenes que ingresar en Booking o en Direct Book. Los links los podras encontrar en la sección de Contactos."
+        "description": "Para poder reservar una habitacion tenes que ingresar en Booking. Los links los podras encontrar en la sección de Contactos."
       },
       "panelId2": {
         "title": "Check-In y Check-Out",
-        "description": "El horario de Ingreso al complejo es de las 16:00 a las 22:00. El horario de Salida es de las 06:00 a las 11:00."
+        "description": "El horario de Ingreso al complejo es de las 14:00 a las 20:00. El horario de Salida es a las 11:00."
       },
       "panelId3": {
         "title": "Cancelación/Prepago",
@@ -54,23 +54,23 @@
       },
       "panelId4": {
         "title": "¿Cúanto cuesta hospedarse?",
-        "description": "Los precios en Albergue Pirenarium pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Elige tus fechas para ver el precio."
+        "description": "Los precios en Albergue Venecia pueden variar en función de la estancia (fechas, condiciones del hotel, etc.). Habitación doble: €50. Habitación €75."
       },
       "panelId5": {
         "title": "¿Cuáles son los tipos de habitaciones?",
-        "description": "El albergue cuenta con 2 tipos: habitaciones dobles y habitaciones compartida mixta de 6 camas. En este alojamiento no hay cunas ni camas supletorias."
+        "description": "El Hostal cuenta con 2 tipos: habitaciones dobles y habitaciones triples. En este alojamiento no hay cunas ni camas supletorias."
       },
       "panelId6": {
         "title": "Medios de pagos",
-        "description": "Actualmente aceptamos solo pagos con tarjeta (no aceptamos pagos en efectivo). Se aceptan las tarjetas VISA, MASTERCARD, AMERICAN EXPRESS y MAESTRO y se reserva el derecho de cargar de forma temporal una cantidad antes de la entrada."
+        "description": "Actualmente aceptamos pagos con tarjeta (se reserva el derecho de cargar de forma temporal una cantidad antes de la entrada) y efectivo."
       },
       "panelId7": {
         "title": "Mascotas",
-        "description": "Actualmente no aceptamos mascotas."
+        "description": "Actualmente aceptamos mascotas pequeñas (hasta 10kg). Se cobrará un extra de €10 a la tarifa."
       },
       "panelId8": {
         "title": "¿Qué se puede hacer?",
-        "description": "Se puede almorzar y cenar en nuestro restorante. Se pueden realizar eventos privados: fiestas, casamientos, etc. Se puede disfrutar de espectáculos al aire libre y música en vivo."
+        "description": "Se puede cenar en nuestro restorante. Se pueden realizar eventos privados: reuniones empresariales, capacitaciones, etc. Se puede ver fútbol en vivo en el restaurante."
       }
     },
     "contact": {
