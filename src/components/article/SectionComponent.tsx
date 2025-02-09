@@ -5,7 +5,7 @@ interface SectionComponentProps {
   sectionId: string;
   title?: string;
   fullscreen?: boolean;
-  children: ReactNode;
+  children?: ReactNode;
   ref: any;
   style?: any;
 }
