@@ -1,8 +1,8 @@
 {
-  "name": "hostal Venecia",
+  "name": "hostal-venecia",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://sebasanchezi.github.io/hostal-venecia",
+  "homepage": "https://sebasanchezi.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
