@@ -76,7 +76,7 @@ const Contact: React.FC<ContactProps> = () => {
         </Typography>
         <Box display="flex" flexDirection="column">
           <Link
-            href={BOOK_LINKS.BOOKING.url}
+            href={BOOK_LINKS.RACCON.url}
             underline="hover"
             target="_blank"
             rel="noopener"
@@ -84,7 +84,7 @@ const Contact: React.FC<ContactProps> = () => {
             fontSize="20px"
             fontWeight={600}
           >
-            {BOOK_LINKS.BOOKING.name}
+            {BOOK_LINKS.RACCON.name}
           </Link>
         </Box>
       </Grid>
