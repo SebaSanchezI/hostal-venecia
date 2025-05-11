@@ -4,6 +4,7 @@ import { Navbar } from "@components/Navbar";
 import Landing from "./pages/landing/Landing";
 import { Suspense } from "react";
 import Hero from "@components/hero/hero";
+import LandbotScript from "@components/landbot/LandbotScript";
 
 export function App() {
   const { theme } = useThemeContext();
@@ -14,6 +15,7 @@ export function App() {
       <Navbar />
       <Hero />
       <Landing />
+      <LandbotScript />
     </ThemeProvider>
   );
 }
